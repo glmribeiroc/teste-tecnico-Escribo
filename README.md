@@ -6,5 +6,5 @@ Após executar o arquivo .dart, como entrada digite um numero inteiro e pression
 #Exemplo
 
 <h1 align="center">
-    <img alt="Preview Desktop" title="Preview Desktop" src=".github/Screenshot_1" />
+    <img alt="Preview Desktop" title="Preview Desktop" src=".github/Screenshot_1.png" />
 </h1>
